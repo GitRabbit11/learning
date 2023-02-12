@@ -1,3 +1,5 @@
 Bench Setup
 
 HMI
+power dummy
+something
